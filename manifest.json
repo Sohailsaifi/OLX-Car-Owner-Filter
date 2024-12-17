@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "OLX Car Owner Filter",
+  "version": "1.0",
+  "description": "Filter out dealer listings on OLX cars section to easily find cars listed by individual owners",
+  "host_permissions": ["https://*.olx.in/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.olx.in/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_title": "OLX Car Owner Filter"
+  }
+}
