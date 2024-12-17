@@ -101,7 +101,7 @@ olx-car-owner-filter/
 - No external services are used
 - All operations are performed locally
 - Only requires access to olx.in domains
-- See full privacy policy [Add Link]
+- See full [privacy policy](https://docs.google.com/document/d/1Cd1_LMcTG2iETXgJdgfHC_9jiMyvuMcQdgeIqxzcwbw/edit?usp=sharing)
 
 ## Contributing
 1. Fork the repository
